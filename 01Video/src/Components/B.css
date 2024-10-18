@@ -1,0 +1,10 @@
+h1{
+    text-align: center;
+}
+.b{
+    border: 1px solid black;
+    padding: 20px 40px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
